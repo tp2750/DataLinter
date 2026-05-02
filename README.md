@@ -14,7 +14,7 @@ Linting library and tools for machine learning, statistical modelling, data, cod
 
 ## Installation
 
-- download cli and server **binaries** (linux-x86-64) from [releases](https://github.com/zgornel/DataLinter/releases) page: ([v0.1.0](https://github.com/zgornel/DataLinter/releases/download/v0.1.0/datalinter-compiled-binary.zip))
+- download cli and server **binaries** (linux-x86-64) from [releases](https://github.com/zgornel/DataLinter/releases) page (latest: [v0.1.1](https://github.com/zgornel/DataLinter/releases/download/v0.1.1/datalinter-compiled-binary.zip))
 - get the **Docker image** with `docker pull ghcr.io/zgornel/datalinter-compiled:latest`
 
 ## Configuration
